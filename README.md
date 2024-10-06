@@ -1,3 +1,4 @@
+![logo](https://github.com/ShahriarKarimShafin/ShahriarKarimShafin/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shahriar Karim Shafin</h1>
 <h3 align="center">A passionate researcher looking for PhD opportunities from Bangladesh</h3>
 
