@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine learning,Artificial intelligence**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shahriarkarimshafin159/](https://www.linkedin.com/in/shahriarkarimshafin159/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shahriarkarimshafin159/recent-activity/all/](https://www.linkedin.com/in/shahriarkarimshafin159/recent-activity/all/)
 
 - 🕵️ All of my course credentials and certificates are available at [https://www.linkedin.com/in/shahriarkarimshafin159/details/certifications/](https://www.linkedin.com/in/shahriarkarimshafin159/details/certifications/)
   
