@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shahriarkarimshafin159/](https://www.linkedin.com/in/shahriarkarimshafin159/)
 
-- 💬 Ask me about **Python,Matlab,Solidworks,Ansys,AutoCad,MS Word,Excel,Laamps**
+- 💬 Ask me about **Python,Matlab,Solidworks,Ansys,AutoCad,MS Word,Excel,Lammps**
 
 - 📫 How to reach me **shahriarshafin159@gmail.com**
 
