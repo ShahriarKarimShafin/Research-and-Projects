@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarkarimshafin&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarkarimshafin" /> </p>
 
-- 🔭 I’m currently researching on **Additive Manufacturing**
+- 🔭 I’m currently researching on **Additive Manufacturing,Composite Materials,Material Properties**
 
 - 🌱 I’m currently learning **Machine learning,Artificial intelligence**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shahriarkarimshafin159/](https://www.linkedin.com/in/shahriarkarimshafin159/)
 
-- 💬 Ask me about **python,matlab,solidworks,ansys**
+- 💬 Ask me about **Python,Matlab,Solidworks,Ansys,AutoCad,MS Word,Excel,Laamps**
 
 - 📫 How to reach me **shahriarshafin159@gmail.com**
 
