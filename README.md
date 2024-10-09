@@ -39,4 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarkarimshafin&" alt="shahriarkarimshafin" /></p>
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ShahriarKarimShafin/ShahriarKarimShafin/output/github-contribution-grid-snake.svg" />
+## Snake eating my contribution graph
+
+![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/f21b406d-1de6-44e1-b604-9fd08807e3e2)
