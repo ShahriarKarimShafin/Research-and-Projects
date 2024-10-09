@@ -18,8 +18,7 @@ on:
 
 
   
-  
-  This command allows us to run the Action automatically from the Actions tab.
+
 
 
 workflow_dispatch:
@@ -53,7 +52,7 @@ steps:
   - uses: Platane/snk@master
     id: snake-gif
     with:
-      github_user_name: Shafin
+      github_user_name: ShahriarKarimShafin
       # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
       gif_out_path: dist/github-contribution-grid-snake.gif
       svg_out_path: dist/github-contribution-grid-snake.svg
