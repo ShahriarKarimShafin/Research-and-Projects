@@ -38,6 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriarkarimshafin&show_icons=true&locale=en" alt="shahriarkarimshafin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarkarimshafin&" alt="shahriarkarimshafin" /></p>
-## snake eating my contribution graph
-![logo](https://github.com/ShahriarKarimShafin/ShahriarKarimShafin/blob/main/output/github-contribution-grid-snake-dark.svg")
+
 
