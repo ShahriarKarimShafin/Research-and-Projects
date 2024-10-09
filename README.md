@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriarkarimshafin&show_icons=true&locale=en" alt="shahriarkarimshafin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarkarimshafin&" alt="shahriarkarimshafin" /></p>
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ShahriarKarimShafin/ShahriarKarimShafin/output/github-contribution-grid-snake-dark.svg" />
